@@ -1,4 +1,4 @@
-# ZABBIX-CaptivePortalPfsense
+# ZABBIX-Monitoring-Datacenter-Temperature
 
 Datacenter temperature monitoring
 (Humidity sensor monitoring, temperature sensor and smoke sensor)
